@@ -17,3 +17,5 @@ Deliverable 4:
     2. Updated background colors, well colors, paragraph colors and fonts.
     3. Updated graph colors to coordinate with background colors.
     4. Added descriptions below the charts.
+
+Deployed site link: https://katelyngaler.github.io/Bellybutton_biodiversity/
